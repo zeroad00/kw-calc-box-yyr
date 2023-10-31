@@ -1,4 +1,3 @@
-
 const lib = require("./lib");
 
 // 충분한 parameter의 개수가 입력되지 않았을 경우
