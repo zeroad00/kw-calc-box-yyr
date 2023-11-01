@@ -14,7 +14,8 @@ function prime(num) {
 function fact(num) {
     // num is up to 15
     if(num>15) return false;
-    // TODO
+    
+    // calculate factorial
     let result = 1;
     for(let a=2; a<=num; a++){
         result *= a;
